@@ -4,7 +4,7 @@
 
 # Scenarios
 ## Chariots of the Gods
-* [Interactive terminal](https://github.com/MaciejLisCK/Alien-RPG-Chariot-of-the-Gods-Terminal)
+* [Interactive terminal](https://github.com/MaciejLisCK/Alien-RPG-Chariot-of-the-Gods-Terminal) [Demo](https://maciejlisck.github.io/Alien-RPG-Chariot-of-the-Gods-Terminal/src/index.html?code=1111)
 * Ambience videos
   * [Deep Space](https://youtu.be/agWJPEYp8Xk?si=fAM9DHjN9ZgOw6Gz)
   * [Montero (quiet spaceship)](https://youtu.be/9dE034U3g3c?si=5kiSUxVwo1WHYB7c)
